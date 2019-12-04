@@ -1,0 +1,110 @@
+.header{
+    width: 100%;
+    background: black;
+    height: 185px;
+    color: white;
+    position: relative;
+    top: -20px;
+}
+.header>h1{
+    position: relative;
+    right: -126px;
+}
+.header>h2{
+    position: relative;
+    right: -126px;
+}
+.list{
+    width: 100%;
+    border-bottom: 1px solid red;
+}
+.list>ul>li{
+    display: inline-block;
+    padding: 14px;
+    position: relative;
+    right: -386px;
+}
+.input1{
+    position: relative;
+    right: -1035px;
+    width: 159px;
+    top: -40px;
+    
+}
+.button{
+    position: absolute;
+    top: 134px;
+    color:white;
+    background: red;
+    border: none;
+    left: 1198px;
+    height: 28px;
+
+}
+
+.list>ul>li:hover{
+    color: red;
+}
+
+.div1,.div2,.div3{
+    width: 50%;
+    background: #ececec;
+    height: 120px;
+    margin-bottom: -17px;
+    position: relative;
+    right: -126px;
+    top: -23px;
+}
+.middle>div>h5{
+    font-size: large;
+    position: relative;
+    left: 20px;
+    bottom: -28px;
+}
+.middle>div>p{
+    position: relative;
+    left: 20px;
+    bottom: -9px;
+    font-size: medium;
+}
+
+.form{
+    position: relative;
+    top: -467px;
+    background: black;
+    color: white;
+    height: 309px;
+    width: 380px;
+    left: 884px;
+}
+.form>input{
+    width: 292px;
+    padding: 4px;
+    margin: 10px;
+}
+.button1{
+    color: white;
+    background: red;
+    border: none;
+    margin: 10px;
+    height: 31px;
+    width: 58px;
+}
+
+.sec3{
+    background: red;
+    color: white;
+    width: 100%;
+    height: 61px;
+    position: relative;
+    top: -313px;
+}
+.sec3>div>p{
+    position: relative;
+    left: 1201px;
+    top: 23px;
+}
+label{
+    margin: 10px;
+}
+
