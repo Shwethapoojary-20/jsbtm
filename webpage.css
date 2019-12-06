@@ -1,0 +1,112 @@
+.heading{
+    background: red;
+    width: 100%;
+    height: 86px;
+    color: white;
+    position: relative;
+    top: -76px;
+}
+#p{
+    text-align: center;
+    position: relative;
+    bottom: 23px;
+    font-size: 86px;
+    font-family: cursive;
+}
+#div{
+    background: black;
+    height: 70px;
+    position: relative;
+    top:-120px;
+    color: white;
+    font-size: 56px;
+}
+.middle{
+    background: dimgray;
+    position: relative;
+    top: -124px;
+    height: 356px;
+}
+.li1:hover,.li2:hover,.li3:hover{
+     color:red;
+}
+.li1,.li2,.li3{
+    display:inline-block;
+    padding: 32px;
+    color: white;
+    position: relative;
+    bottom: -27px;
+    left: 311px;
+    font-size: 12px;;
+}
+.li4,.li5,.li6{
+    font-size: 51px;
+    color: white;
+}
+
+.form{
+    position: relative;
+    left: 585px;
+    width: 50%;
+    /*top: -104px;*/
+    border: 5px solid white;
+    top: -222px;
+    height: 414px;
+   /* height: 384px;*/
+    background: dimgray;
+}
+.p1{
+    color: white;
+    position: relative;
+    bottom: -91px;
+    left: 27px;
+}
+.div2{
+    border-bottom: 2px solid red;
+    position: relative;
+    top: -96px;
+}
+.div1>ul{
+    position: relative;
+    bottom: -103px;
+    right: -163px;
+}
+.div3{
+    background-image: url("https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_960_720.jpg");
+    height: 171px;
+}
+.div3>h2{
+    position: relative;
+    top: -87px;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+.div3>p{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: -76px;
+}
+.div4>p{
+    color: white;
+    position: relative;
+    left: 43px; 
+    font-size: 19px;
+    top: 6px;
+} 
+.input{
+    position: relative;
+    left: 364px;
+    top: -37px;
+}
+.button{
+    border: none;
+    color: white;
+    background: red;
+    position: relative;
+    top: -37px;
+    left: 360px;
+    height: 28px;
+    width: 76px;
+}
